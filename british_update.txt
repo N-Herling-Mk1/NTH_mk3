@@ -1,0 +1,17 @@
+
+PS C:\WINDOWS\system32> C:\Users\natha\OneDrive\Desktop\Full_WebSite_mk2\voice_British_Female.ps1
+Step 1: Adding British English (en-GB) language pack...
+British English (en-GB) is already installed.
+
+Step 2: Installing required speech and TTS components...
+Installing capability: Language.Basic~~~en-GB~0.0.1.0 ...
+Successfully installed Language.Basic~~~en-GB~0.0.1.0
+Installing capability: Language.Speech~~~en-GB~0.0.1.0 ...
+Failed to install Language.Speech~~~en-GB~0.0.1.0
+Installing capability: Language.TextToSpeech~~~en-GB~0.0.1.0 ...
+Successfully installed Language.TextToSpeech~~~en-GB~0.0.1.0
+
+Installation complete.
+
+IMPORTANT: You need to restart your computer to apply changes.
+Do you want to restart now? (Y/N): 

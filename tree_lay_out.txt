@@ -1,0 +1,43 @@
+personal-site/
+│
+├── index.html
+├── config.json
+│
+├── styles/
+│   └── main.css
+│
+├── js/
+│   ├── layout.js
+│   ├── router.js
+│   └── audio.js
+│
+├── content/
+│   ├── cv.html
+│   ├── project1.html
+│   └── project2.html
+│
+├── audio/
+│   ├── intro.wav
+│   └── project1-description.wav
+│
+├── panels/
+│   ├── top-left/
+│   │   ├── top-left.html
+│   │   ├── top-left.css
+│   │   └── top-left.js
+│   ├── top-right/
+│   │   ├── top-right.html
+│   │   ├── top-right.css
+│   │   └── top-right.js
+│   ├── middle-left/
+│   │   ├── middle-left.html
+│   │   ├── middle-left.css
+│   │   └── middle-left.js
+│   ├── middle-right/
+│   │   ├── middle-right.html
+│   │   ├── middle-right.css
+│   │   └── middle-right.js
+│   └── bottom/
+│       ├── bottom.html
+│       ├── bottom.css
+│       └── bottom.js
